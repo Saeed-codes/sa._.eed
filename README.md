@@ -1,8 +1,4 @@
 # sa._.eed
-<h1> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed-codes&layout=compact&theme=chartreuse-dark&langs_count=8" />
-  </a>
-
-<br>
 
 In my professional realm, I am an electrical engineer with expertise in Python, Arduino,
 PCB designing, and computer networking, among other areas. You can categorize me as a computer
